@@ -6,7 +6,7 @@
   ],
   "products": [
     { "id":1, "title": "Toys", "description": "New toys", "price": 4.95, "currency": "USD", "image":"https://placehold.co/600x400?text=Hello+World", "rating": 4.5 },
-    { "id":2, "title": "Movies", "description": "Movies description", "price": 4.95, "currency": "MXN", "image":"https://placehold.co/600x400?text=New+Image", "rating": 5 },
+    { "id":2, "title": "Movies", "description": "Movies for everyone", "price": 4.95, "currency": "MXN", "image":"https://placehold.co/600x400?text=New+Image", "rating": 5 },
     { "id":3, "title": "Food", "description": "Food description", "price": 4.95, "currency": "USD", "image":"https://placehold.co/600x400?text=Placeholder+Image", "rating": 2.5 },
     { "id":4, "title": "Videogame", "description": "Videogame description", "price": 4.95, "currency": "MXN", "image":"https://placehold.co/600x400?text=White+Lotus", "rating": 3.5 },
     { "id":5, "title": "Ipad", "description": "Ipad description", "price": 4.95, "currency": "USD", "image":"https://placehold.co/600x400?text=Placeholder+Product", "rating": 1.5 },
