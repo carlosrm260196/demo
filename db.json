@@ -9,17 +9,17 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "products": [
-    { "id":1, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 4.5 },
-    { "id":2, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 4.5 },
-    { "id":3, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 4.5 },
-    { "id":4, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 4.5 },
-    { "id":5, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 4.5 },
-    { "id":6, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 4.5 },
-    { "id":7, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 4.5 },
-    { "id":8, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 4.5 },
-    { "id":9, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 4.5 },
-    { "id":10, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 4.5 },
-    { "id":11, "title": "Product name 11", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 4.5 }
+    { "id":1, "title": "Toys", "description": "New toys", "price": 4.95, "currency": "USD", "image":"https://placehold.co/600x400?text=Hello+World", "rating": 4.5 },
+    { "id":2, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 5 },
+    { "id":3, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 2.5 },
+    { "id":4, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 3.5 },
+    { "id":5, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 1.5 },
+    { "id":6, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 0.5 },
+    { "id":7, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 5.0 },
+    { "id":8, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 3.0 },
+    { "id":9, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 4.0 },
+    { "id":10, "title": "Product name", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 1.0 },
+    { "id":11, "title": "Product name 11", "description": "Product description", "price": 4.95, "currency": "USD", "image":"https://via.placeholder.com/150/771796", "rating": 4.2 }
   ],
   "profile": {
     "name": "carlosrm260196"
